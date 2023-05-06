@@ -20,6 +20,10 @@ a{
     color: grey;
 
 }
+.heading-links a:hover{
+
+color:rgb(233, 178, 111);
+}
 .about-text{
     font-size: 3rem;
     /* font-weight:bold; */
@@ -177,6 +181,10 @@ a{
     width: 5rem;
     margin-left: 40%;
     margin-bottom: 5vh;
+}
+.contact-icons a img:hover{
+    opacity: 0.7;
+    width:6rem;
 }
 .footer-row{
     border-top-style: solid;
